@@ -85,7 +85,7 @@ Every terminal line is signed by the spider that did the work:
 ## ⚡ Quick start
 
 ```bash
-git clone https://github.com/SpikeCalls/widow.git && cd widow
+git clone https://github.com/MyWestLord/widow.git && cd widow
 npm run replay        # zero install, zero network, zero money
 ```
 

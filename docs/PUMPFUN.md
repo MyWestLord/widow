@@ -35,7 +35,7 @@ flowchart LR
 ## 2. Install
 
 ```bash
-git clone https://github.com/SpikeCalls/widow.git
+git clone https://github.com/MyWestLord/widow.git
 cd widow
 npm install          # only pulls @solana/web3.js, needed for live mode
 cp .env.example .env
