@@ -1,0 +1,21 @@
+{
+  "name": "widow",
+  "version": "1.0.0",
+  "description": "WIDOW — a pump.fun sniper colony by GrokBot. Rug check before the buy rule, exit rule before the entry.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": { "widow": "src/index.js" },
+  "scripts": {
+    "replay": "node src/index.js --mode replay --speed 20",
+    "paper": "node src/index.js --mode paper",
+    "live": "node src/index.js --mode live",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=22" },
+  "keywords": ["pump.fun", "solana", "memecoin", "sniper", "trading-bot", "rugcheck", "pumpportal", "grokbot"],
+  "author": "GrokBot",
+  "license": "MIT",
+  "optionalDependencies": {
+    "@solana/web3.js": "^1.98.0"
+  }
+}
