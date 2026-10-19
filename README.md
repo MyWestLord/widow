@@ -13,8 +13,6 @@
 
 <h3 align="center">rug check before the buy rule · exit rule before the entry</h3>
 
-<p align="center"><b>CA</b><br><code>H3RKKhFDCmLpn6DC6a7a5fHpZGZxsFVmSvr9P9Ztpump</code></p>
-
 <p align="center">
 WIDOW is a pump.fun sniper made of sixteen tiny spiders.<br>
 Every new launch lands in the web first. Rugs get their thread cut before a single lamport moves.<br>
